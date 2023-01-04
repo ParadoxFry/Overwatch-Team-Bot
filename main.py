@@ -1,6 +1,6 @@
 import discord
 
-from constants import *
+from createTeams import *
 
 intents = discord.Intents(messages=True)
 

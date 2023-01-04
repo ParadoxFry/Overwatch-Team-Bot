@@ -1,5 +1,7 @@
 import discord
 
+from constants import *
+
 intents = discord.Intents(messages=True)
 
 client = discord.Client(intents=intents)
